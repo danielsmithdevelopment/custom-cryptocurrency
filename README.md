@@ -1,2 +1,9 @@
 # custom-cryptocurrency
-Repository for custom cryptocurrency implementation on the blockchain
+
+This is the implementation of a custom cryptocurrency on a blockchain.
+
+```
+git clone git@github.com:danielsmithdevelopment/custom-cryptocurrency.git
+cd custom-cryptocurrency
+npm install
+```
